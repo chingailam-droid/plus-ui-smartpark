@@ -1,3 +1,7 @@
+## 智慧园区
+
+本仓为智慧园区前端，勿与梯控仓混用。园区后端 API 基址见 `.env.smartpark.example`（`http://127.0.0.1:8081`）。
+
 ## 平台简介
 
 - 本仓库为前端技术栈 [Vue3](https://v3.cn.vuejs.org) + [TS](https://www.typescriptlang.org/) + [Element Plus](https://element-plus.org/zh-CN) + [Vite](https://cn.vitejs.dev) 版本。
