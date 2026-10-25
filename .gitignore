@@ -24,6 +24,9 @@ selenium-debug.log
 package-lock.json
 yarn.lock
 
+# 本地环境覆盖（由 .env.smartpark.example 复制而来）
+.env*.local
+
 # 编译生成的文件
 auto-imports.d.ts
 components.d.ts
